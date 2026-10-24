@@ -1,0 +1,8 @@
+{
+  "_comment": "把这段合并进 dsh-pet 的 config.json（%APPDATA%\\dsh-pet-standalone-webm-chat\\config.json）",
+  "character": "white_fat_dragon",
+  "character_aliases": {
+    "shenshen": "蓝色大肥鱼",
+    "white_fat_dragon": "白色大肥龙"
+  }
+}
