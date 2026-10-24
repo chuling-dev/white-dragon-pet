@@ -1,0 +1,9 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# local test output
+raw/
+tmp/
+*.tmp
